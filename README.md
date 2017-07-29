@@ -34,7 +34,11 @@ This file makes use of two Grasshopper plugins. You will need to download and in
  - [Geco](http://www.food4rhino.com/app/geco)
 
 ----------
+People using
+-------
+![enter image description here](https://lh3.googleusercontent.com/-yzQUC8WTNZ0/WXz07JcdrGI/AAAAAAAAC-g/E6j_J7Qz7dUBcHmrSCmJsFoIiDkTkydKgCE0YBhgL/s0/TRANCADO+NO+INSTA1.jpg)
 
+----------
 Contact the authors
 -------
 gabriele.landim@gmail.com<br />
