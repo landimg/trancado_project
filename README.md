@@ -2,9 +2,9 @@
 Trançado
 -------------
 **by Quasares**, São Paulo, Brasil, 2015
-Dyego Digiandomenico
+<p>Dyego Digiandomenico
 Gabriele Landim
-Henrique Fischer
+Henrique Fischer<br />
 
 ![enter image description here](http://images.adsttc.com/media/images/57a3/5d43/e58e/ce1e/3d00/0165/slideshow/002_Rogerio_Canella_%28Custom%29.jpg?1470324027)
 photo by Thiago Miagi
@@ -37,6 +37,6 @@ This file makes use of two Grasshopper plugins. You will need to download and in
 
 Contact the authors
 -------
-gabriele.landim@gmail.com
-dyego.sd@gmail.com
+gabriele.landim@gmail.com<br />
+dyego.sd@gmail.com<br />
 adolfo.fischer@gmail.com 
